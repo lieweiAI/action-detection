@@ -1,0 +1,9 @@
+train: G:\drive\images\train2017
+val: G:\drive\images\val2017
+
+# number of classes
+nc: 3
+
+# class names
+names: ['smoke', 'call', 'drink']
+
